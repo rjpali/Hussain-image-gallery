@@ -52,22 +52,22 @@
   transition: bottom 0.4s, opacity;
 }
 .container .gallery .img-box:nth-child(1) {
-  background: url(/img/img\(3\).png);
+  background: url(./img/img\(3\).png);
   /* background-position: center; */
   background-size: cover;
 }
 .container .gallery .img-box:nth-child(2) {
-  background: url(/img/img\(2\).jpg);
+  background: url(./img/img\(2\).jpg);
   /* background-position: center; */
   background-size: cover;
 }
 .container .gallery .img-box:nth-child(3) {
-  background: url(/img/img\(4\).jpg);
+  background: url(./img/img\(4\).jpg);
   background-position: center;
   background-size: cover;
 }
 .container .gallery .img-box:nth-child(4) {
-  background: url(/img/img\(5\).png);
+  background: url(./img/img\(5\).png);
   background-position: center;
   background-size: cover;
 }
